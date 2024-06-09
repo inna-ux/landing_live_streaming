@@ -1,0 +1,23 @@
+{
+  "name": "sass_live_srteamig",
+  "version": "1.0.0",
+  "description": "landing page",
+  "source": "index.html",
+  "scripts": {
+    "sass:watch": "sass --style=expanded --watch styles:dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inna-ux/landing_live_streaming.git"
+  },
+  "author": "Inna Taradeeva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inna-ux/landing_live_streaming/issues"
+  },
+  "homepage": "https://github.com/inna-ux/landing_live_streaming#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "sass": "^1.77.4"
+  }
+}
